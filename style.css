@@ -1,0 +1,53 @@
+h1 {
+    font:strong;
+    text-align: center;
+    background-color: grey;
+    color: black;
+}
+img {
+    width: 20%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h2 {
+    font:strong;
+    font-size: 40px;
+    text-align: center;
+    /* background-color: grey; */
+    color: darkgreen;
+}
+p {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+.link {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    display: block;
+}
+ul {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+    font-size: 40px;
+    color: black;
+}   
+textarea {
+    width: 20%;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    font-size: 50px;
+    cursor: pointer;
+}
